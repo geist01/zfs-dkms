@@ -1,4 +1,5 @@
-# Maintainer: Eli Schwartz <eschwartz@archlinux.org>
+# Maintainer: Kevin Stolp <kevinstolp@gmail.com>
+# Contributor: Eli Schwartz <eschwartz@archlinux.org>
 # Contributor: Iacopo Isimbaldi <isiachi@rhye.it>
 
 # All my PKGBUILDs are managed at https://github.com/eli-schwartz/pkgbuilds
